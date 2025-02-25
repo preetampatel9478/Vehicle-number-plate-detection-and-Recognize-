@@ -13,7 +13,7 @@ from langchain_core.messages import HumanMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # Set up Google API Key (Use a secure method to store it)
-GOOGLE_API_KEY = "AIzaSyCRXsViN_YDtwqt2sZfNhRuPORCp0-8Fd0"  # Replace with your actual API key
+GOOGLE_API_KEY = ""  # Replace with your actual API key
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 # MySQL Database Configuration

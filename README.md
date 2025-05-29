@@ -113,4 +113,25 @@ This project is for educational and research purposes.
 - Google Gemini AI
 - Python, OpenCV, Tkinter, MySQL
 
+Understanding Results
+Speed Estimation
+Speed is calculated when vehicles cross the detection line
+Values are in km/h
+Calibration factors are applied for accuracy
+Vehicle Details
+The system extracts:
+
+Vehicle Model
+Color
+Company/Make
+Number Plate
+Data Table Columns
+ID: Unique identifier
+Track ID: Vehicle tracking number
+Speed: Calculated speed in km/h
+Date Time: Detection timestamp
+Model: Vehicle model
+Color: Vehicle color
+Company: Manufacturer
+Number Plate: Detected plate number
 ---
